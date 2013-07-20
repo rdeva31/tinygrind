@@ -1,0 +1,29 @@
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+/bin/
+
+# Editor swap files
+*.s[a-w][a-z]
+*.un~
+*~
+*.orig
+
+# Tags
+tags
+cscope.*
+ncscope.*
